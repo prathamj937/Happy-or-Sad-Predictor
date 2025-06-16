@@ -1,1 +1,1 @@
-# Image Classification and live feed prediction
+# Happy or Sad Image Predictor
